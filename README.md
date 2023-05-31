@@ -12,8 +12,6 @@ Frameworks: React.js, Next.js, Redux, Express.js, Node.js
 
 Tools: Git, AWS, Jira, CI/CD, Jest.js, Cypress.js, Shopify
 
-![James's GitHub stats](https://github-readme-stats.vercel.app/api?username=jghb&show_icons=true&theme=tokyonight)
-
 Most Used Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jghb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
